@@ -13,8 +13,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erfanparasti&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" alt="آمار گیت‌هاب" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanparasti&layout=compact&theme=dracula" alt="زبان‌های برتر" />
 </div>
 
 ---
@@ -30,7 +28,11 @@
 ## 🛠️ مهارت‌ها
 - **زبان‌های برنامه‌نویسی**: Python، PHP، JavaScript  
 - **ابزارها و فناوری‌ها**: Wireshark، Nmap، Metasploit  
-- **شبکه و امنیت**: CEH، امنیت سایبری، پیکربندی شبکه
+- **شبکه و امنیت**: CEH، امنیت سایبری، پیکربندی شبکه  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanparasti&layout=compact&theme=dracula" alt="زبان‌های برتر" />
+</div>
 
 ---
 
