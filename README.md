@@ -10,11 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=erfanparasti&color=blue&style=flat-square" alt="بازدیدهای پروفایل" />
   <img src="https://img.shields.io/github/followers/erfanparasti?label=Followers&style=flat-square" alt="تعداد دنبال‌کننده‌ها" />
 </p>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanparasti&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" alt="آمار گیت‌هاب" />
-</div>
-
 ---
 
 ## ✨ درباره من
@@ -30,7 +25,7 @@
 ## 🛠️ مهارت‌ها و زبان‌های برتر
 
 <div align="center">
-  <table>
+  <table border='0'>
     <tr>
       <td style="background: #282a36; color: #f8f8f2; padding: 10px; border-radius: 10px;">
         <ul>
@@ -50,8 +45,8 @@
 
 ## 📫 راه‌های ارتباط با من
 <div align="center" style="background: #44475a; padding: 15px; border-radius: 10px; color: #f8f8f2; font-size: 16px;">
-  <p>📧 <b>ایمیل:</b> <a href="mailto:erfanparasti@example.com" style="color: #8be9fd;">erfanparasti@example.com</a></p>
-  <p>📱 <b>تلگرام:</b> <a href="https://t.me/erfanparasti" style="color: #8be9fd;">t.me/erfanparasti</a></p>
+  <p>📧 <b>ایمیل:</b> <a href="mailto:erfanparasti@example.com" style="color: #8be9fd;">erfanparasti@gmail.com</a></p>
+  <p>📱 <b>تلگرام:</b> <a href="https://t.me/erfanparasti" style="color: #8be9fd;">t.me/Erfan_info_ir</a></p>
 </div>
 
 ---
