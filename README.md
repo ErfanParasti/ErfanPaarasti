@@ -25,19 +25,29 @@
 
 ---
 
-## 🛠️ مهارت‌ها
-- **زبان‌های برنامه‌نویسی**: Python، PHP، JavaScript  
-- **ابزارها و فناوری‌ها**: Wireshark، Nmap، Metasploit  
-- **شبکه و امنیت**: CEH، امنیت سایبری، پیکربندی شبکه  
+## 🛠️ مهارت‌ها و زبان‌های برتر
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanparasti&layout=compact&theme=dracula" alt="زبان‌های برتر" />
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>زبان‌های برنامه‌نویسی: Python، PHP، JavaScript</li>
+          <li>ابزارها و فناوری‌ها: Wireshark، Nmap، Metasploit</li>
+          <li>شبکه و امنیت: CEH، امنیت سایبری، پیکربندی شبکه</li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanparasti&layout=compact&theme=dracula" alt="زبان‌های برتر" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 📫 راه‌های ارتباط با من
-- 📧 ایمیل: [erfanparasti@example.com](mailto:erfanparasti@example.com)  
+- 📧 ایمیل: [erfanparasti@example.com](mailto:erfanparasti@gmail.com)  
 - 📱 تلگرام: [t.me/erfanparasti](https://t.me/erfanparasti)
 
 ---
