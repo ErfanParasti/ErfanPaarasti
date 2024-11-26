@@ -25,7 +25,7 @@
 ## 🛠️ مهارت‌ها و زبان‌های برتر
 
 <div align="center">
-  <table border="0">
+  <table border="0" style="border:0px;"'>
     <tr>
       <td style="background: #282a36; color: #f8f8f2; padding: 10px; border-radius: 10px;">
         <ul>
